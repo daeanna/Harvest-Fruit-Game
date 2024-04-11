@@ -40,6 +40,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgements
 Thanks to Pygame for providing the framework for game development.
-Inspiration for this game came from [source/inspiration].
+
 Author
 Ana
